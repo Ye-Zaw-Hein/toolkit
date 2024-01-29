@@ -16,7 +16,7 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/Ye-Zaw-Hein/toolkit`
+`go get -u github.com/ye-zaw-hein/toolkit`
 
 ## Usage
 
@@ -27,7 +27,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Ye-Zaw-Hein/toolkit"
+	"github.com/ye-zaw-hein/toolkit"
 )
 
 func main() {
@@ -113,7 +113,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Ye-Zaw-Hein/toolkit"
+	"github.com/ye-zaw-hein/toolkit"
 )
 
 func main() {
@@ -185,7 +185,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Ye-Zaw-Hein/toolkit"
+	"github.com/ye-zaw-hein/toolkit"
 	"log"
 	"net/http"
 )
@@ -325,7 +325,7 @@ You can use this kind of Go code:
 package main
 
 import (
-	"github.com/Ye-Zaw-Hein/toolkit"
+	"github.com/ye-zaw-hein/toolkit"
 	"log"
 	"net/http"
 )
